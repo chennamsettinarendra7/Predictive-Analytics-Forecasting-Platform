@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Analytics & Forecasting Platform",
+  "description": "An enterprise-grade platform for historical data import, preprocessing, predictive modeling, time-series forecasting, scenario-simulation, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
